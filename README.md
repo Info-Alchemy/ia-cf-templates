@@ -1,7 +1,9 @@
-# ia-cf-templates
+# Info Alchemy CloudFormation Templates
 This is a repository for Info Alchemy's collection of cloudformation templates
 
 The goal of this repository is to adhere to AWS' Best Practices for deploying in the cloud. 
+
+Feel free to create a branch and create more CloudFormation templates!
 
 
 # List of CloudFormation Templates
